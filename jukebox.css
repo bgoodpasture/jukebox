@@ -1,0 +1,28 @@
+#album-cover{
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.buttons{
+  margin:auto auto;
+  text-align: center;
+
+}
+#play{
+  font-size: 125px;
+
+}
+#pause{
+  font-size: 125px;
+  display: none;
+}
+#selector{
+  display: inline-block;
+  margin: auto auto;
+}
+.winter2016{
+  margin: 15px auto;
+  text-align: center;
+
+}
